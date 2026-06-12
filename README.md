@@ -129,3 +129,5 @@ pip install pandas numpy scikit-learn lightgbm xgboost catboost
 Track: Urban Traffic Demand Forecasting  
 Final Rank: **Top 300**  
 Public Leaderboard R²: **95.69**
+
+> 📓 **[Click here to view the full notebook](https://nbviewer.org/github/Hiten0305l/gridlock-traffic-demand-prediction/blob/main/gridlock_optimized_v2.ipynb)**
